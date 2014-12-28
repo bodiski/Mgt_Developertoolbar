@@ -3,7 +3,7 @@
      <modules>
         <Mgt_Base>
             <active>true</active>
-            <codePool>local</codePool>
+            <codePool>community</codePool>
         </Mgt_Base>
      </modules>
 </config>
