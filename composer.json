@@ -1,0 +1,15 @@
+{
+    "name": "mgt/developertoolbar",
+    "description": "Magento Developer Toolbar",
+    "license": "MIT",
+    "type": "magento-module",
+    "authors": [
+        {
+            "name": "Stefan Wieczorek",
+            "email": "stefan.wieczorek@mgt-commerce.com"
+        }
+    ],
+    "require": {
+            "magento-hackathon/magento-composer-installer": "*"
+    }
+}
